@@ -1,0 +1,16 @@
+/*
+ * COMP 20 Assignment 2
+ *
+ * Name: Bill Yung (byung01)
+ * Date: March 9, 2016
+ */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 100%;
+}
